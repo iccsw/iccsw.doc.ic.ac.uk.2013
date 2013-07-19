@@ -38,7 +38,7 @@ template: page.jade
 * Sarah Gaggl, TU Dresden, Germany
 * Cristian Gratie, University Politehnica of Bucharest, Romania
 * Evgenios Hadjisoteriou, University of Cyprus, Cyprus
-* Jesus Omana Iglesias, Trinity College Dublin, Ireland
+* Jesus Omana Iglesias, University College Dublin, Ireland
 * Nuo Li, University of Nottingham, UK
 * Nuno Dias Martins, University of Lisbon, Portugal
 * Andrei Melnik, University of Osnabruck, Germany
