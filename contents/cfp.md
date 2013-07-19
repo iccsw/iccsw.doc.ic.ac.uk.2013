@@ -51,7 +51,8 @@ for the workshop are welcome, but not required, to submit the poster.
 ### Submission
 
 Submissions for the technical track, and tools and demos track
-are limited to 8 and 6 pages respectively in [OASIcs format]. For
+are limited to 8 and 6 pages (including references) respectively in
+[OASIcs format]. For
 each submitted paper, the authors will be required to review at
 least two other submissions, not necessarily related to the topic
 of their immediate expertise. To ensure reviews are objective and
