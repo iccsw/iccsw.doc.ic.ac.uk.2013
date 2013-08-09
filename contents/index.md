@@ -36,8 +36,14 @@ of Computing at Imperial College London, London, United Kingdom.
 ## Platinum Sponsors
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
-  <img src="img/google.png" style="height: 40px;
-margin: 1em;" alt="Google">
+  <img src="img/google.png" style="height: 40px; margin: 1em;" alt="Google">
+</a>
+</div>
+
+## Gold Sponsors
+<div class="row" style="text-align: center;">
+<a href="https://www.facebook.com/facebook">
+  <img src="img/facebook.png" style="height: 40px; margin: 1em;" alt="Facebook">
 </a>
 </div>
 
