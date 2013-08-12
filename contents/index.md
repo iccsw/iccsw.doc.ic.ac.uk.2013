@@ -42,7 +42,7 @@ of Computing at Imperial College London, London, United Kingdom.
 
 ## Gold Sponsors
 <div class="row" style="text-align: center;">
-<a href="https://www.facebook.com/facebook">
+<a href="https://www.facebook.com/publications">
   <img src="img/facebook.png" style="height: 40px; margin: 1em;" alt="Facebook">
 </a>
 </div>
