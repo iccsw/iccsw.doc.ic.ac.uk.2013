@@ -5,6 +5,9 @@
     "owner": "Imperial College Computing Student Workshop, Imperial College London",
     "description": "2013 Imperial College Computing Student Workshop"
   },
+  "plugins": [
+    "wintersmith-less"
+  ],
   "require": {
     "moment": "moment",
     "_": "underscore",

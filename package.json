@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "wintersmith-less": "*",
     "moment": "2.x",
     "underscore": "1.4.x",
     "typogr": "0.5.x"
-  }
+  },
+  "repository": "none"
 }
