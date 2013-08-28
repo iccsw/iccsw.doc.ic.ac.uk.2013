@@ -21,11 +21,11 @@ __10:15am - 11:15am__: Logics and Formal Methods (Session chair: TBA)
 
 __11:15am - 11:30am__: Coffee break
 
-__11:30am - 12:30pm__: Languages and Modelling (Session chair: TBA)
+__11:30am - 12:30am__: Video and Imaging (Session chair: TBA)
 
-* __Sardar Jaf and Allan Ramsay__: Towards the Development of a Hybrid Parser for Natural Languages
-* __Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov and Vladimir Vovk__: Conformal Prediction under Hypergraphical Models
-* __Fan-Lin Meng and Xiao-Jun Zeng__: An Optimal Real-time Pricing Algorithm for the Smart Grid: A Bi-level Programming Approach 
+* __Xin Lu and Graham Martin__: Improved Rate Control Algorithm for Scalable Video Coding
+* __Theofanis Apostolopoulos__: A swarm based heuristic for sparse image recovery
+* __Xin Lu and Graham Martin__: Fast Implementation of the Scalable Video Coding Extension of the H.264/AVC Standard
 
 __12:30pm - 2:30pm__: Lunch break + Poster session (Session chair: TBA)
 
@@ -41,27 +41,27 @@ __5:00pm - 9:00pm__: Social evening and Banquet
 
 __9:00am - 9:30am__: Registration
 
-__9:30am - 10:30am__: Video and Imaging (Session chair: TBA)
-
-* __Xin Lu and Graham Martin__: Improved Rate Control Algorithm for Scalable Video Coding
-* __Theofanis Apostolopoulos__: A swarm based heuristic for sparse image recovery
-* __Xin Lu and Graham Martin__: Fast Implementation of the Scalable Video Coding Extension of the H.264/AVC Standard 
-
-__10:30am - 11:00am__: Coffee break
-
-__11:00am - 12:00pm__: Evaluation Frameworks (Session chair: TBA)
+__9:30am - 10:30pm__: Evaluation Frameworks (Session chair: TBA)
 
 * __Lei Shi__: Evaluation of Social Personalized Adaptive E-Learning Environment: From End User Point of View
 * __Maria Kechagia, Dimitris Mitropoulos and Diomidis Spinellis__: Improving the quality of APIs through the analysis of software crash reports 
 * __Tim Wood__: Refactoring Boundary 
 
-__12:00pm - 1:30pm__: Lunch break
+__10:30am - 11:00am__: Coffee break
 
-__1:30pm - 2:30pm__: High Performance and Cloud Computing (Session chair: TBA)
+__11:00am - 12:00pm__: High Performance and Cloud Computing (Session chair: TBA)
 
 * __Huanzhou Zhu and Ligang He__: Optimal Co-Scheduling Parallel Jobs in Multicore Computers
 * __Raul Castro Fernandez, Peter Pietzuch, Matteo Migliavacca and Evangelia Kalyvianaki__: Scalable and Fault-tolerant Stateful Stream Processing
 * __Ali Mustafa Zaidi and David Greaves__: Achieving Superscalar Performance without Superscalar Overheads - A Dataflow Compiler IR for Custom Computing
+
+__12:00pm - 1:30pm__: Lunch break
+
+__1:30pm - 2:30pm__: Languages, Modelling and Machine Learning (Session chair: TBA)
+
+* __Sardar Jaf and Allan Ramsay__: Towards the Development of a Hybrid Parser for Natural Languages
+* __Fan-Lin Meng and Xiao-Jun Zeng__: An Optimal Real-time Pricing Algorithm for the Smart Grid: A Bi-level Programming Approach
+* __Valentina Fedorova, Alex Gammerman, Ilia Nouretdinov and Vladimir Vovk__: Conformal Prediction under Hypergraphical Models
 
 __2:30pm - 3:00pm__: Coffee break
 
