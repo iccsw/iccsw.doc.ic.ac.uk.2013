@@ -27,13 +27,13 @@ __11:30am - 12:30am__: Video and Imaging (Session chair: TBA)
 * __Theofanis Apostolopoulos__: A swarm based heuristic for sparse image recovery
 * __Xin Lu and Graham Martin__: Fast Implementation of the Scalable Video Coding Extension of the H.264/AVC Standard
 
-__12:30pm - 2:30pm__: Lunch break + Poster session (Session chair: TBA)
+__12:30pm - 1:30pm__: Lunch break
 
-__2:30pm - 3:30pm__: Keynote (Session chair: [Calin-Rares Turliuc])
+__1:30pm - 2:30pm__: Keynote (Session chair: [Calin-Rares Turliuc])
 
 * __Tony Hoare__: Laws of programming with concurrency
 
-__3:30pm - 5:00pm__: Free time
+__2:30pm - 5:00pm__: Free time
 
 __5:00pm - 9:00pm__: Social evening and Banquet
 
