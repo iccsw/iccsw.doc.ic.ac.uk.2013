@@ -9,7 +9,7 @@ __8:30am - 9:00am__: Registration
 
 __9:00am - 9:30am__: Welcome and opening talk by Head of Dept
 
-__9:30am - 10:00am__: Welcome from committee + Gone in 60 Seconds (Session chair: TBA)
+__9:30am - 10:00am__: Welcome from committee + Gone in 60 Seconds (Session chair: [Marily Nika])
 
 __10:00am - 10:15am__: Coffee break
 
@@ -82,3 +82,4 @@ __6:00pm - 6:30pm__: Prize giving and Closing (Session chair: TBA)
 
 [Calin-Rares Turliuc]: http://www.doc.ic.ac.uk/~ct1810
 [Petr Hosek]: http://www.doc.ic.ac.uk/~ph1310
+[Marily Nika]: http://www.marily.me
