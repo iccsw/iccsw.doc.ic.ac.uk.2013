@@ -13,7 +13,7 @@ __9:30am - 10:00am__: Welcome from committee + Gone in 60 Seconds (Session chair
 
 __10:00am - 10:15am__: Coffee break
 
-__10:15am - 11:15am__: Logics and Formal Methods (Session chair: TBA)
+__10:15am - 11:15am__: Logics and Formal Methods (Session chair: [Claudia Schulz])
 
 * __Ionut Tutu__: Logical Foundations of Services
 * __Quoc-Sang Phan__: Self-composition by Symbolic Execution 
@@ -21,7 +21,7 @@ __10:15am - 11:15am__: Logics and Formal Methods (Session chair: TBA)
 
 __11:15am - 11:30am__: Coffee break
 
-__11:30am - 12:30am__: Video and Imaging (Session chair: TBA)
+__11:30am - 12:30am__: Video and Imaging (Session chair: [Zhongliu Xie])
 
 * __Xin Lu and Graham Martin__: Improved Rate Control Algorithm for Scalable Video Coding
 * __Theofanis Apostolopoulos__: A swarm based heuristic for sparse image recovery
@@ -41,7 +41,7 @@ __5:00pm - 9:00pm__: Social evening and Banquet
 
 __9:00am - 9:30am__: Registration
 
-__9:30am - 10:30pm__: Evaluation Frameworks (Session chair: TBA)
+__9:30am - 10:30pm__: Evaluation Frameworks (Session chair: [Petr Hosek])
 
 * __Lei Shi__: Evaluation of Social Personalized Adaptive E-Learning Environment: From End User Point of View
 * __Maria Kechagia, Dimitris Mitropoulos and Diomidis Spinellis__: Improving the quality of APIs through the analysis of software crash reports 
@@ -49,7 +49,7 @@ __9:30am - 10:30pm__: Evaluation Frameworks (Session chair: TBA)
 
 __10:30am - 11:00am__: Coffee break
 
-__11:00am - 12:00pm__: High Performance and Cloud Computing (Session chair: TBA)
+__11:00am - 12:00pm__: High Performance and Cloud Computing (Session chair: [Chris Guenther])
 
 * __Huanzhou Zhu and Ligang He__: Optimal Co-Scheduling Parallel Jobs in Multicore Computers
 * __Raul Castro Fernandez, Peter Pietzuch, Matteo Migliavacca and Evangelia Kalyvianaki__: Scalable and Fault-tolerant Stateful Stream Processing
@@ -57,7 +57,7 @@ __11:00am - 12:00pm__: High Performance and Cloud Computing (Session chair: TBA)
 
 __12:00pm - 1:30pm__: Lunch break
 
-__1:30pm - 2:30pm__: Languages, Modelling and Machine Learning (Session chair: TBA)
+__1:30pm - 2:30pm__: Languages, Modelling and Machine Learning (Session chair: [Calin-Rares Turliuc])
 
 * __Sardar Jaf and Allan Ramsay__: Towards the Development of a Hybrid Parser for Natural Languages
 * __Fan-Lin Meng and Xiao-Jun Zeng__: An Optimal Real-time Pricing Algorithm for the Smart Grid: A Bi-level Programming Approach
@@ -78,8 +78,12 @@ __5:00pm - 6:00pm__: Keynote (Session chair: [Petr Hosek])
 
 * __Peter Norvig__: TBA
 
-__6:00pm - 6:30pm__: Prize giving and Closing (Session chair: TBA)
+__6:00pm - 6:30pm__: Prize giving and Closing (Session chair: [Nicholas Ng])
 
 [Calin-Rares Turliuc]: http://www.doc.ic.ac.uk/~ct1810
 [Petr Hosek]: http://www.doc.ic.ac.uk/~ph1310
 [Marily Nika]: http://www.marily.me
+[Chris Guenther]: https://www.doc.ic.ac.uk/~mcg05/
+[Nicholas Ng]: http://www.doc.ic.ac.uk/~cn06/
+[Zhongliu Xie]: http://www.doc.ic.ac.uk/~zx10/
+[Claudia Schulz]: http://www.doc.ic.ac.uk/~cis11/

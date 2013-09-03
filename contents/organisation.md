@@ -17,7 +17,7 @@ template: page.jade
   London
 * [Roman Kolcun](http://www.doc.ic.ac.uk/~rk1208/), Imperial College
   London
-* [Nicholas Ng](http://www.doc.ic.ac.uk/~cn06/page/), Imperial College
+* [Nicholas Ng](http://www.doc.ic.ac.uk/~cn06/), Imperial College
   London
 * [Marily Nika](http://www.marily.me/), Imperial College London
 * [Rumyana Neykova](http://www.doc.ic.ac.uk/~rn710/), Imperial
