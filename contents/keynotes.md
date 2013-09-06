@@ -20,10 +20,20 @@ language
 
 * * *
 
-## TBA
+## Building Better Online Courses
 ### Peter Norvig, Google
 
-
+We now have many choices in designing a course, whether it is in the
+classroom, online, or a hybrid. This talk will cover some of the
+mechanics of running an online course, including the factors involved in
+building a community. And we will discuss whether building a course is
+like building software: in the early days, software was crafted by
+individuals, but over time we established processes that enabled large
+groups to build much larger systems.  Today, courses are still crafted
+by an individual teacher -- if we want to build a larger class, serving
+more students, and more potential paths through the material, do we need
+a new set of course building processes? How can we assure that our
+courses will continually improve in quality?
 
 *[Peter Norvig](http://norvig.com/bio.html) is a Director of Research at
 [Google Inc](http://www.google.com);
