@@ -76,7 +76,7 @@ __4:30pm - 5:00pm__: Coffee break
 
 __5:00pm - 6:00pm__: Keynote (Session chair: [Petr Hosek])
 
-* __Peter Norvig__: TBA
+* __Peter Norvig__: Building Better Online Courses
 
 __6:00pm - 6:30pm__: Prize giving and Closing (Session chair: [Nicholas Ng])
 
