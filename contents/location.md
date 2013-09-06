@@ -9,7 +9,7 @@ The workshop will be hosted at the Department of Computing located
 inside the South Kensington Campus at Imperial College London, 180
 Queen's Gate, London SW7 2AZ. The workshop programme will take place in
 [Lecture Theatre
-308](http://www3.imperial.ac.uk/conferenceandevents/conferences/southkensingtonconferences/huxley). Breaks will be held on the corridors in front of the lecture theatre and lunch will be served in [Room 344](http://www3.imperial.ac.uk/conferenceandevents/conferences/southkensingtonconferences/huxley).
+311](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley). Breaks will be held on the corridors in front of the lecture theatre and lunch will be served in [Room 344](http://www3.imperial.ac.uk/conferenceandevents/venues/southkensingtonvenues/huxley).
 
 <iframe width="640" height="320" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0"
