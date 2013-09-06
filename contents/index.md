@@ -33,21 +33,21 @@ covering their ongoing research. The third edition of the workshop will
 span two days and will be held September 26—27, 2013, at the Department
 of Computing at Imperial College London, London, United Kingdom.
 
-## Platinum Sponsors
+### Platinum Sponsors
 <div class="row" style="text-align: center;">
 <a href="http://www.google.com/about/corporate/company/">
   <img src="img/google.png" style="height: 40px; margin: 1em;" alt="Google">
 </a>
 </div>
 
-## Gold Sponsors
+### Gold Sponsors
 <div class="row" style="text-align: center;">
 <a href="https://www.facebook.com/publications">
   <img src="img/facebook.png" style="height: 40px; margin: 1em;" alt="Facebook">
 </a>
 </div>
 
-## Bronze Sponsors
+### Bronze Sponsors
 <div class="row" style="text-align: center;">
 <a href="http://www.arm.com/">
   <img src="img/arm.png" style="height: 40px; margin: 1em;" alt="ARM"/>
@@ -57,7 +57,7 @@ of Computing at Imperial College London, London, United Kingdom.
 </a>
 </div>
 
-## Supporters
+### Supporters
 <div class="row" style="text-align: center;">
 <a href="http://www.imperial.ac.uk/">
   <img src="img/icl.png" style="height: 40px; margin:
