@@ -41,7 +41,8 @@ __5:00pm - 9:00pm__: Social evening and Banquet
 
 __9:00am - 9:30am__: Registration
 
-__9:30am - 10:30pm__: Evaluation Frameworks (Session chair: [Petr Hosek])
+__9:30am - 10:30pm__: Evaluation Frameworks (Session chair: [Feryal
+Mehraban Pour Behbani])
 
 * __Lei Shi__: Evaluation of Social Personalized Adaptive E-Learning Environment: From End User Point of View
 * __Maria Kechagia, Dimitris Mitropoulos and Diomidis Spinellis__: Improving the quality of APIs through the analysis of software crash reports 
@@ -74,7 +75,7 @@ __3:00pm - 4:30pm__: Machine Learning and Knowledge Representation (Session chai
 
 __4:30pm - 5:00pm__: Coffee break
 
-__5:00pm - 6:00pm__: Keynote (Session chair: [Petr Hosek])
+__5:00pm - 6:00pm__: Keynote (Session chair: [Calin-Rares Turliuc])
 
 * __Peter Norvig__: Building Better Online Courses
 
@@ -87,3 +88,4 @@ __6:00pm - 6:30pm__: Prize giving and Closing (Session chair: [Nicholas Ng])
 [Nicholas Ng]: http://www.doc.ic.ac.uk/~cn06/
 [Zhongliu Xie]: http://www.doc.ic.ac.uk/~zx10/
 [Claudia Schulz]: http://www.doc.ic.ac.uk/~cis11/
+[Feryal Mehraban Pour Behbani]: http://www.doc.ic.ac.uk/~fm1210/
