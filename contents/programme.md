@@ -35,7 +35,10 @@ __1:30pm - 2:30pm__: Keynote (Session chair: [Calin-Rares Turliuc])
 
 __2:30pm - 5:00pm__: Free time
 
-__5:00pm - 9:00pm__: Social evening and Banquet
+__5:00pm - 10:00pm__: Social evening and Banquet
+
+* Departing 5:45pm at Westminister Pier (Meet at 5:30pm)
+* Returning 9:45pm at Westminister Pier
 
 ## Friday, September 27th, 2013
 
